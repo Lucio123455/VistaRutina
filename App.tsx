@@ -52,7 +52,7 @@ const App: React.FC = () => {
           setRoutine(parsedData);
           setError(null);
         } else {
-          setError("El formato de la rutina no es válido. Debe ser un arreglo JSON.");
+          setError("El formato de la rutina no es válido la concha de tu madre. Debe ser un arreglo JSON.");
         }
       } catch (err) {
         console.error(err);
