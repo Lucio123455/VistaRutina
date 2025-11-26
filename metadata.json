@@ -1,0 +1,5 @@
+{
+  "name": "FitFlow Gemini",
+  "description": "A mobile-first gym routine tracker powered by Gemini.",
+  "requestFramePermissions": []
+}
